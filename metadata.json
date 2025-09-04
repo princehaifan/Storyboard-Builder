@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard Builder",
+  "description": "An AI-powered application to generate structured storyboards, create scenes, and produce a final video based on your story concept, characters, and plot points.",
+  "requestFramePermissions": []
+}
